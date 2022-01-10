@@ -1,0 +1,13 @@
+name: Mariusz Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  DummyJob:
+    runs-on: ubuntu-latest
+    steps:
+      - name: DummyStep
+        run: echo Dummy Text!
+      - name: Again a one-line script
+        run: echo TEST!
