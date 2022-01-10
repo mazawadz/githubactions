@@ -1,1 +1,4 @@
+name: GitHub Actions - build from the main branch
 
+on:
+  workflow_dispatch:

@@ -1,1 +1,4 @@
+name: GitHub Actions - deploy from the main branch
 
+on:
+  workflow_dispatch:
