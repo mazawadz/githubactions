@@ -5,6 +5,7 @@ on:
 
 jobs:
   DummyJob:
+    name: Just simple DummyJob
     runs-on: ubuntu-latest
     steps:
       - name: DummyStep
