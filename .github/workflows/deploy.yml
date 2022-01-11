@@ -1,4 +1,4 @@
-name: Mariusz Workflow
+name: Mariusz Workflow deploy
 
 on:
   workflow_dispatch:
