@@ -1,4 +1,4 @@
-name: Mariusz Workflow
+name: Build Workflow from the test-branch
 
 on:
   workflow_dispatch:
